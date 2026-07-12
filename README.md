@@ -161,7 +161,7 @@ Includes:
  ├── reports/
  │   └── summary.pdf                    # Executive summary report
  │
- ├── build_report.py
+ |
  ├── requirements.txt
  ├── run_analysis.py                    # Reproduces analysis outputs
  └── README.md
