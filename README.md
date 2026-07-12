@@ -135,7 +135,7 @@ Includes:
  ├── data/
  │   └── train.csv                      # Raw Superstore sales data
  │
- ├── figures/
+ ├── Charts/
  │   ├── 01_eda_overview.png
  │   ├── 02_decomposition.png
  │   ├── 03_prophet_components.png
